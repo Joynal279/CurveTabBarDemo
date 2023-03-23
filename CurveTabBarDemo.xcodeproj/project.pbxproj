@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F2AF9F2929CBDDB300869D28 /* CurveTabBarDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AF9F2829CBDDB300869D28 /* CurveTabBarDemoApp.swift */; };
-		F2AF9F2B29CBDDB300869D28 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AF9F2A29CBDDB300869D28 /* ContentView.swift */; };
+		F2AF9F2B29CBDDB300869D28 /* TestReorderTabItemsPerSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AF9F2A29CBDDB300869D28 /* TestReorderTabItemsPerSelection.swift */; };
 		F2AF9F2D29CBDDB400869D28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2AF9F2C29CBDDB400869D28 /* Assets.xcassets */; };
 		F2AF9F3129CBDDB400869D28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2AF9F3029CBDDB400869D28 /* Preview Assets.xcassets */; };
 		F2AF9F3B29CBDDB400869D28 /* CurveTabBarDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AF9F3A29CBDDB400869D28 /* CurveTabBarDemoTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		F2AF9F2529CBDDB300869D28 /* CurveTabBarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurveTabBarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2AF9F2829CBDDB300869D28 /* CurveTabBarDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveTabBarDemoApp.swift; sourceTree = "<group>"; };
-		F2AF9F2A29CBDDB300869D28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F2AF9F2A29CBDDB300869D28 /* TestReorderTabItemsPerSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestReorderTabItemsPerSelection.swift; sourceTree = "<group>"; };
 		F2AF9F2C29CBDDB400869D28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2AF9F2E29CBDDB400869D28 /* CurveTabBarDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CurveTabBarDemo.entitlements; sourceTree = "<group>"; };
 		F2AF9F3029CBDDB400869D28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				F2AF9F2829CBDDB300869D28 /* CurveTabBarDemoApp.swift */,
-				F2AF9F2A29CBDDB300869D28 /* ContentView.swift */,
+				F2AF9F2A29CBDDB300869D28 /* TestReorderTabItemsPerSelection.swift */,
 				F2AF9F2C29CBDDB400869D28 /* Assets.xcassets */,
 				F2AF9F2E29CBDDB400869D28 /* CurveTabBarDemo.entitlements */,
 				F2AF9F2F29CBDDB400869D28 /* Preview Content */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F2AF9F2B29CBDDB300869D28 /* ContentView.swift in Sources */,
+				F2AF9F2B29CBDDB300869D28 /* TestReorderTabItemsPerSelection.swift in Sources */,
 				F2AF9F2929CBDDB300869D28 /* CurveTabBarDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

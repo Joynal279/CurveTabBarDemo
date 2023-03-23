@@ -11,7 +11,7 @@ import SwiftUI
 struct CurveTabBarDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TestReorderTabItemsPerSelection()
         }
     }
 }
